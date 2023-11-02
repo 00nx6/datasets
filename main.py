@@ -16,8 +16,10 @@ def print_stats(avg_age, avg_price, max_age, kind):
     print(f'{kind}: Average age: {avg_age} - Maximum age: {max_age} - Average procedure price: {avg_price}')
 
 def print_dates(date_collection):
-    for i, date in date_collection.items():
+    # print first 7, and last 2
+    for i, date in date_collection[:7].items():
         print(i, date)
+        
 
 def zip_dates_prices(catalog):
     date_collection = {}
