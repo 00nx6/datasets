@@ -17,10 +17,13 @@ def print_stats(avg_age, avg_price, max_age, kind):
 
 def print_dates(date_collection):
     # print first 7, and last 2
-    for i, date in date_collection[:7].items():
-        print(i, date)
+    print('\n[Daily totals]')
+    for (date) in list(date_collection)[:7]:
+        print(f' {date}: {date_collection[date]} euros')
+    print('...')
+    for (date) in list(date_collection)[-2:]:
+        print(f'{date}: {date_collection[date]} euros')
         
-
 def zip_dates_prices(catalog):
     date_collection = {}
     for entry in catalog:
