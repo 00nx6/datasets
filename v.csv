@@ -1,0 +1,299 @@
+OwnerID;Name;Surname;StreetAddress;City;State;StateFull;ZipCode;PetID;Pet name;Kind;Gender;Age;Date;ProcedureType;ProcedureSubCode;Description;Price
+5508;Charles;Swarey;2463 Charles Street;Flint;MI;Michigan;48548;F6-5391;Cookie;Cat;female;9;21/12/2016;GROOMING;1;Bath;15
+2419;Luisa;Cuellar;1308 Shingleton Road;Kalamazoo;MI;Michigan;49007;P0-1725;Lily;Dog;female;0;06/07/2016;GROOMING;3;Bath;15
+1766;Doris;Ray;1700 Mahlon Street;Farmington Hills;MI;Michigan;48335;Q9-1565;Scout;Dog;female;14;08/05/2016;GROOMING;3;Bath;15
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;19/08/2016;GROOMING;1;Bath;15
+5508;Charles;Swarey;2463 Charles Street;Flint;MI;Michigan;48548;F6-5391;Cookie;Cat;female;9;21/12/2016;GROOMING;1;Flea Dip;15
+2419;Luisa;Cuellar;1308 Shingleton Road;Kalamazoo;MI;Michigan;49007;P0-1725;Lily;Dog;female;0;06/07/2016;GROOMING;3;Flea Dip;15
+1766;Doris;Ray;1700 Mahlon Street;Farmington Hills;MI;Michigan;48335;Q9-1565;Scout;Dog;female;14;08/05/2016;GROOMING;3;Flea Dip;15
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;19/08/2016;GROOMING;1;Flea Dip;15
+5508;Charles;Swarey;2463 Charles Street;Flint;MI;Michigan;48548;F6-5391;Cookie;Cat;female;9;21/12/2016;GROOMING;1;Flea Spray;10
+2419;Luisa;Cuellar;1308 Shingleton Road;Kalamazoo;MI;Michigan;49007;P0-1725;Lily;Dog;female;0;06/07/2016;GROOMING;3;Flea Spray;10
+1766;Doris;Ray;1700 Mahlon Street;Farmington Hills;MI;Michigan;48335;Q9-1565;Scout;Dog;female;14;08/05/2016;GROOMING;3;Flea Spray;10
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;19/08/2016;GROOMING;1;Flea Spray;10
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;Galaxie (DHLPP);15
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;Leukemia;20
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;Leukemia;20
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;Leukemia;20
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;Leukemia;20
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;Leukemia;20
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;Leukemia;20
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;Leukemia;20
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;Leukemia;20
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;Leukemia;20
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;Leukemia;20
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;Leukemia;20
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;Leukemia;20
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;Leukemia;20
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;Leukemia;20
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;Leukemia;20
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;Leukemia;20
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;Leukemia;20
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;Leukemia;20
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;Leukemia;20
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;Leukemia;20
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;Leukemia;20
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;Leukemia;20
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;Leukemia;20
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;Leukemia;20
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;Leukemia;20
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;Leukemia;20
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;Leukemia;20
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;Leukemia;20
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;Leukemia;20
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;Lyme;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;Lyme;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;Lyme;15
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;Lyme;15
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;Lyme;15
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;Lyme;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;Lyme;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;Lyme;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;Lyme;15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;Lyme;15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;Lyme;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;Lyme;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;Lyme;15
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;Lyme;15
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;Lyme;15
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;Lyme;15
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;Lyme;15
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;Lyme;15
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;Lyme;15
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;Lyme;15
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;Lyme;15
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;Lyme;15
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;Lyme;15
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;Lyme;15
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;Lyme;15
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;Lyme;15
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;Lyme;15
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;Lyme;15
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;Lyme;15
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;PCR;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;PCR;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;PCR;15
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;PCR;15
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;PCR;15
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;PCR;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;PCR;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;PCR;15
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;PCR;15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;PCR;15
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;PCR;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;PCR;15
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;PCR;15
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;PCR;15
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;PCR;15
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;PCR;15
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;PCR;15
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;PCR;15
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;PCR;15
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;PCR;15
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;PCR;15
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;PCR;15
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;PCR;15
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;PCR;15
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;PCR;15
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;PCR;15
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;PCR;15
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;PCR;15
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;PCR;15
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;Rabies;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;Rabies;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;Rabies;10
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;Rabies;10
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;Rabies;10
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;Rabies;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;Rabies;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;Rabies;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;Rabies;10
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;Rabies;10
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;Rabies;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;Rabies;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;Rabies;10
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;Rabies;10
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;Rabies;10
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;Rabies;10
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;Rabies;10
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;Rabies;10
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;Rabies;10
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;Rabies;10
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;Rabies;10
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;Rabies;10
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;Rabies;10
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;Rabies;10
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;Rabies;10
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;Rabies;10
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;Rabies;10
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;Rabies;10
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;Rabies;10
+9604;William;Tea;367 Cherry Ridge Drive;Roseville;MI;Michigan;48066;F1-1855;Bandit;Parrot;male;2;02/02/2016;VACCINATIONS;5;Bordetella;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;29/01/2016;VACCINATIONS;5;Bordetella;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;G6-6501;Jake;Cat;male;2;30/07/2016;VACCINATIONS;5;Bordetella;10
+2722;John;Jordan;1799 Elk Avenue;Michigan Center;MI;Michigan;49254;G9-0817;Kashi;Cat;male;5;11/10/2016;VACCINATIONS;5;Bordetella;10
+7663;Julia;Gowan;1342 Ben Street;Lansing;MI;Michigan;48933;H2-8586;Antigone;Cat;female;8;13/12/2016;VACCINATIONS;5;Bordetella;10
+9900;Marie;Floyd;314 Cunningham Court;Southfield;MI;Michigan;48075;I2-7926;Dior;Parrot;female;4;28/05/2016;VACCINATIONS;5;Bordetella;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/05/2016;VACCINATIONS;5;Bordetella;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;08/05/2016;VACCINATIONS;5;Bordetella;10
+8215;Max;Smith;1054 Hayhurst Lane;Pontiac;MI;Michigan;48342;J8-7429;Bonaparte;Dog;male;4;04/06/2016;VACCINATIONS;5;Bordetella;10
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;17/09/2016;VACCINATIONS;5;Bordetella;10
+2809;Bruce;Dunne;4119 Kimberly Way;Grand Rapids;MI;Michigan;49503;K0-8177;Bruce;Dog;male;12;07/11/2016;VACCINATIONS;5;Bordetella;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;05/02/2016;VACCINATIONS;5;Bordetella;10
+3089;Lee;McKenzie;3295 Pinewood Avenue;Marquette;MI;Michigan;49855;L4-6292;Bright;Dog;male;13;16/12/2016;VACCINATIONS;5;Bordetella;10
+9828;Steven;Sheldon;2664 Bombardier Way;Wayne;MI;Michigan;48184;L8-0046;Rumba;Cat;male;7;05/02/2016;VACCINATIONS;5;Bordetella;10
+3086;Ed;Enriquez;3413 Reppert Coal Road;Warren;MI;Michigan;48093;M0-2904;Simba;Cat;male;1;22/07/2016;VACCINATIONS;5;Bordetella;10
+7606;Edna;Moreno;2548 Wetzel Lane;Grand Rapids;MI;Michigan;49503;M8-7852;Cookie;Cat;female;8;19/09/2016;VACCINATIONS;5;Bordetella;10
+9365;Bruce;Tatum;1712 Woodbridge Lane;Livonia;MI;Michigan;48150;N0-9539;Swiffer;Cat;male;14;19/09/2016;VACCINATIONS;5;Bordetella;10
+6194;Karen;Torres;3941 Ritter Avenue;Center Line;MI;Michigan;48015;O6-3123;Biscuit;Dog;female;2;11/09/2016;VACCINATIONS;5;Bordetella;10
+4378;George;McDonald;4715 Wood Duck Drive;Marquette;MI;Michigan;49855;P2-7342;Cuddles;Dog;male;13;05/10/2016;VACCINATIONS;5;Bordetella;10
+1653;Carolyn;Crane;3952 Jarvisville Road;Lansing;MI;Michigan;48933;P9-6519;Cookie;Cat;female;6;05/12/2016;VACCINATIONS;5;Bordetella;10
+6157;Dan;Hysell;3231 Hayhurst Lane;Plymouth;MI;Michigan;48170;Q8-8753;Danger;Dog;male;7;06/11/2016;VACCINATIONS;5;Bordetella;10
+5447;Arthur;Reed;2651 Haven Lane;Lansing;MI;Michigan;48933;S1-2243;Cuddles;Dog;male;2;04/02/2016;VACCINATIONS;5;Bordetella;10
+8133;Stacey;Randolph;1145 D Street;Southfield;MI;Michigan;48075;T0-3277;Humbert;Cat;male;12;22/01/2016;VACCINATIONS;5;Bordetella;10
+5833;Mary;Hurtado;4865 Juniper Drive;Saint Charles;MI;Michigan;48655;T0-5705;Biscuit;Dog;female;5;04/11/2016;VACCINATIONS;5;Bordetella;10
+7846;Elvia;Warren;2041 Eagle Drive;Southfield;MI;Michigan;48075;U4-9376;Scout;Dog;female;2;10/12/2016;VACCINATIONS;5;Bordetella;10
+1546;Joseph;Blow;556 D Street;Southfield;MI;Michigan;48075;U6-4890;Blackie;Dog;male;6;19/10/2016;VACCINATIONS;5;Bordetella;10
+1070;Jessica;Velazquez;3861 Woodbridge Lane;Southfield;MI;Michigan;48034;U8-6473;Biscuit;Dog;female;3;10/07/2016;VACCINATIONS;5;Bordetella;10
+3245;Susan;Luna;859 Corpening Drive;Commerce;MI;Michigan;48085;V7-6771;Daisy;Dog;female;4;30/07/2016;VACCINATIONS;5;Bordetella;10
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;18/03/2016;VACCINATIONS;5;Bordetella;10
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Amput. per lim thor.;400
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Amput. per lim thor.;400
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Amput. per lim thor.;400
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Amput. per lim thor.;400
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Casting;97
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Casting;97
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Casting;97
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Casting;97
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Re-Casting;62
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Re-Casting;62
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Re-Casting;62
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Re-Casting;62
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Fem. head Ostec.;420
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Fem. head Ostec.;420
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Fem. head Ostec.;420
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Fem. head Ostec.;420
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Lx Patella Repair;305
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Lx Patella Repair;305
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Lx Patella Repair;305
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Lx Patella Repair;305
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Metamason Splint;50
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Metamason Splint;50
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Metamason Splint;50
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Metamason Splint;50
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Pinning-I.M.;325
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Pinning-I.M.;325
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Pinning-I.M.;325
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Pinning-I.M.;325
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Pin Removal;68
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Pin Removal;68
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Pin Removal;68
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Pin Removal;68
+5806;Jerry;Reyna;1073 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;L0-6660;Cookie;Dog;male;9;02/08/2016;ORTHOPEDIC;1;Cast Removal;40
+1915;Christopher;Bowers;3575 Woodbridge Lane;Detroit;MI;Michigan;48226;M2-1131;Rumba;Cat;male;8;01/12/2016;ORTHOPEDIC;5;Cast Removal;40
+7579;Ricardo;Peterson;4963 Mahlon Street;Ann Arbor;MI;Michigan;48104;P9-3625;Cuddles;Dog;male;14;30/01/2016;ORTHOPEDIC;7;Cast Removal;40
+8143;Jackie;Hatmaker;949 John Avenue;East Lansing;MI;Michigan;48823;Q2-3642;Thatcher;Parrot;female;8;29/09/2016;ORTHOPEDIC;9;Cast Removal;40
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Anal Gland Caut;150
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Anal Gland Caut;150
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Anal Gland Caut;150
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Anal Gland Caut;150
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Aural Hematoma;108
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Aural Hematoma;108
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Aural Hematoma;108
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Aural Hematoma;108
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Declaw;125
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Declaw;125
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Declaw;125
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Declaw;125
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Dissolvable Suture;15
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Dissolvable Suture;15
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Dissolvable Suture;15
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Dissolvable Suture;15
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Ear Crop;350
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Ear Crop;350
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Ear Crop;350
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Ear Crop;350
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Gastric Torsion;450
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Gastric Torsion;450
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Gastric Torsion;450
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Gastric Torsion;450
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Hernia;390
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Hernia;390
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Hernia;390
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Hernia;390
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Umbilical;175
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Umbilical;175
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Umbilical;175
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Umbilical;175
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Perineal;375
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Perineal;375
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Perineal;375
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Perineal;375
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Unilat Inquinal;195
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Unilat Inquinal;195
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Unilat Inquinal;195
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Unilat Inquinal;195
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Intestinal Anas;775
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Intestinal Anas;775
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Intestinal Anas;775
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Intestinal Anas;775
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Open Chest Surgery;500
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Open Chest Surgery;500
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Open Chest Surgery;500
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Open Chest Surgery;500
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Perineal Adenoma;175
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Perineal Adenoma;175
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Perineal Adenoma;175
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Perineal Adenoma;175
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Peritoneal Lavage;85
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Peritoneal Lavage;85
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Peritoneal Lavage;85
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Peritoneal Lavage;85
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Pyloric Stenosis;425
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Pyloric Stenosis;425
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Pyloric Stenosis;425
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Pyloric Stenosis;425
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Splenectomy;375
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Splenectomy;375
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Splenectomy;375
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Splenectomy;375
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Radical Mastectomy;450
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Radical Mastectomy;450
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Radical Mastectomy;450
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Radical Mastectomy;450
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Salivary Cyst Ex;570
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Salivary Cyst Ex;570
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Salivary Cyst Ex;570
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Salivary Cyst Ex;570
+8316;Daniel;Fay;894 Twin Oaks Drive;Grand Rapids;MI;Michigan;49503;J1-6366;Bruce;Dog;male;3;22/10/2016;GENERAL SURGERIES;17;Tail Dock-Amputation;250
+7261;Tony;Long;536 Bombardier Way;Ann Arbor;MI;Michigan;48104;J2-4382;Dexter;Parrot;male;4;26/11/2016;GENERAL SURGERIES;3;Tail Dock-Amputation;250
+5168;Robert;Foster;4680 Rubaiyat Road;Grand Rapids;MI;Michigan;49503;J6-8562;Blackie;Dog;male;11;21/08/2016;GENERAL SURGERIES;8;Tail Dock-Amputation;250
+7581;Florence;Nolen;3103 Howard Street;Grand Rapids;MI;Michigan;49503;X0-8765;Vuitton;Parrot;female;11;03/10/2016;GENERAL SURGERIES;8;Tail Dock-Amputation;250

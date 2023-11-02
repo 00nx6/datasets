@@ -1,2 +1,6 @@
-# This module implements functionality to read the procedure history stored in a a CSV file.
-# After the file has been processed the data is returned in a proper data structure.
+def file_reader_module(file_name):
+    with open(file_name, encoding='utf-8') as file:
+        keys = file.readline().strip().lower().split(';')
+        lines = [line.strip().split(';') for line in file]
+        return [dict(zip(keys, line)) for line in lines]  # noqa: B905
+
