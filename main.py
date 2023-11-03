@@ -1,9 +1,7 @@
 import file_reader_module as frm
 import print_functions as pf
 import menu as nav
-
-# change the way you calculate species so its always looking based on the
-# species in the OG catalog
+from draw_barchart import draw_barchart
 
 def main():
     print('*** Little Paws Veterinary Administration ***')
@@ -21,27 +19,31 @@ def main():
     filtered_catalog = None
     
     while True:
+        base_catalog = catalog if filtered_catalog is None else filtered_catalog
+        date_collection = frm.zip_dates_prices(catalog=base_catalog)
         usr_nav = nav.menu()
         match usr_nav:
             case 1:
                 for kind in species:
                     kind_stats = frm.calculate_stats(catalog=catalog, kind=kind)
-                    date_collection = frm.zip_dates_prices(catalog=catalog)
                     pf.print_stats(kind_stats=kind_stats, kind=kind)
-                    pf.print_dates(date_collection=date_collection)
+                pf.print_dates(date_collection=date_collection)
+
             case 2:
                 filters = nav.get_filter()
-                base_catalog = catalog if filtered_catalog is None else filtered_catalog
                 filtered_catalog = frm.filter_catalog(catalog=base_catalog, filters=filters)
                 
-                print(filters)
                 for kind in species:
-                    kind_stats = frm.calculate_stats(catalog=filtered_catalog, kind=kind) if kind != 'All' else frm.filter_catalog(catalog=catalog, filters=filters)
+                    kind_stats = frm.calculate_stats(catalog=filtered_catalog, kind=kind) if kind != 'All' else frm.calculate_stats(catalog=catalog, kind=kind)
                     pf.print_stats(kind_stats=kind_stats, kind=kind)
                     
             case 3:
                 filters = ['All', '']
                 filtered_catalog = None
+                
+            case 4:
+                draw_barchart(dates=date_collection)
+
             case _:
                 print('ERROR: Not given option')
 

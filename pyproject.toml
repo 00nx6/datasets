@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+matplotlib = "^3.8.1"
+tk = "^0.1.0"
+fire = "^0.5.0"
 
 
 [build-system]

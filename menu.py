@@ -3,11 +3,12 @@ def menu():
     print(" 1. Calculate stats")
     print(" 2. Filter the data")
     print(" 3. Clear filter")
+    print(" 4. Draw barchart")
     
     while True:
         try:
-            usr_nav = int(input('Please select an option'))
-            if usr_nav < 1 or usr_nav > 3:
+            usr_nav = int(input('Please select an option: '))
+            if usr_nav < 1 or usr_nav > 4:
                 raise ValueError()
         except ValueError:
             print("ERROR: Not given option")
@@ -23,20 +24,18 @@ def get_filter():
     
     while True:
         try:
-            usr_nav = int(input('Please select an option'))
+            usr_nav = int(input('Please select an option: '))
         except ValueError:
             print('ERROR: Enter a number')
         else:
             match usr_nav:
                 case 1:
-                    filters = filter_by_kind()
+                    return filter_by_kind()
                 case 2:
-                    filters = filter_by_name()
+                    return filter_by_name()
                 case _:
                     print("ERROR: Invalid input")
                     continue
-            break
-    return filters
 
 def filter_by_kind():
     print('Select one of the following kind: ')
@@ -52,16 +51,14 @@ def filter_by_kind():
         else:
             match usr_nav:
                 case 1:
-                    filters = ['Dog', '']
+                    return ['Dog', '']
                 case 2:
-                    filters = ['Cat', '']
+                    return ['Cat', '']
                 case 3:
-                    filters = ['Parrot', '']
+                    return ['Parrot', '']
                 case _:
                     print("ERROR: Invalid input")
                     continue
-            break
-    return filters
 
 def filter_by_name():
     while True:
