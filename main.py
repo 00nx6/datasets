@@ -1,70 +1,52 @@
-from file_reader_module import file_reader_module
+import file_reader_module as frm
+import print_functions as pf
+import menu as nav
 
-def get_species(catalog):
-    species = ['All']
-    for entry in catalog:
-        if entry['kind'] not in species:
-            species.append(entry['kind'])
-    return species
-
-def filter_catalog(filters, catalog):
-    return [entry for entry in catalog if
-                        (filters[1] == '' or filters[1] in entry['pet name']) and  # noqa: PLC1901
-                        (filters[0] == 'All' or filters[0] == entry['kind'])]
-    
-def print_stats(avg_age, avg_price, max_age, kind):
-    print(f'{kind}: Average age: {avg_age} - Maximum age: {max_age} - Average procedure price: {avg_price}')
-
-def print_dates(date_collection):
-    # print first 7, and last 2
-    print('\n[Daily totals]')
-    for (date) in list(date_collection)[:7]:
-        print(f' {date}: {date_collection[date]} euros')
-    print('...')
-    for (date) in list(date_collection)[-2:]:
-        print(f'{date}: {date_collection[date]} euros')
-        
-def zip_dates_prices(catalog):
-    date_collection = {}
-    for entry in catalog:
-        if entry['date'] not in date_collection:
-            date_collection[entry['date']] = int(entry['price'])
-        else:
-            date_collection[entry['date']] += int(entry['price'])
-    print_dates(date_collection=date_collection)
-
-def calculate_stats(catalog, kind):
-    total_age, max_age, total_price, counter = 0, 0, 0, 0
-    for entry in catalog:
-        if entry['kind'] == kind or kind == 'All':
-            counter += 1
-            total_age += int(entry['age'])
-            total_price += int(entry['price'])
-            if int(entry['age']) > max_age:
-                max_age = int(entry['age'])
-
-    if counter > 0:
-        print_stats(round(total_age / counter, 2), round(total_price / counter, 2), max_age, kind)
-    else:
-        print(f'No data for species: {kind}')
+# change the way you calculate species so its always looking based on the
+# species in the OG catalog
 
 def main():
     print('*** Little Paws Veterinary Administration ***')
     while True:
         file_name = input('Enter the name of the  file containing your procedure history (type \'exit\' to quit the application): ')
         try:
-            catalog = file_reader_module(file_name)
+            catalog = frm.file_reader_module(file_name)
         except FileNotFoundError:
             print('ERROR: Unable to open file')
         else:
             print(len(catalog), 'procedures.')
-            species = get_species(catalog=catalog)
+            species = frm.get_species(catalog=catalog)
             break
     
-    for kind in species:
-        calculate_stats(catalog=catalog, kind=kind)
+    filtered_catalog = None
     
-    zip_dates_prices(catalog=catalog)
+    while True:
+        usr_nav = nav.menu()
+        match usr_nav:
+            case 1:
+                for kind in species:
+                    kind_stats = frm.calculate_stats(catalog=catalog, kind=kind)
+                    date_collection = frm.zip_dates_prices(catalog=catalog)
+                    pf.print_stats(kind_stats=kind_stats, kind=kind)
+                    pf.print_dates(date_collection=date_collection)
+            case 2:
+                filters = nav.get_filter()
+                if not filtered_catalog:
+                    filtered_catalog = frm.filter_catalog(catalog=catalog, filters=filters)
+                else:
+                    filtered_catalog = frm.filter_catalog(catalog=filtered_catalog, filters=filters)
+                species = frm.get_species(catalog)
+                for kind in species:
+                    if kind == 'All':
+                        kind_stats = frm.calculate_stats(catalog=catalog, kind=kind)
+                    else:
+                        kind_stats = frm.calculate_stats(catalog=filtered_catalog, kind=kind)
+                    pf.print_stats(kind_stats=kind_stats, kind=kind)
+            case 3:
+                filters = ['All', '']
+                filtered_catalog = None
+            case _:
+                print('ERROR: Not given option')
 
 
 if __name__ == "__main__":
