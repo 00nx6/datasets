@@ -39,7 +39,7 @@ def get_filter():
     return filters
 
 def filter_by_kind():
-    print('Select one of the following kind:')
+    print('Select one of the following kind: ')
     print(' 1. Dog')
     print(' 2. Cat')
     print(' 3. Parrot')

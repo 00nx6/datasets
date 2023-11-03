@@ -31,17 +31,14 @@ def main():
                     pf.print_dates(date_collection=date_collection)
             case 2:
                 filters = nav.get_filter()
-                if not filtered_catalog:
-                    filtered_catalog = frm.filter_catalog(catalog=catalog, filters=filters)
-                else:
-                    filtered_catalog = frm.filter_catalog(catalog=filtered_catalog, filters=filters)
-                species = frm.get_species(catalog)
+                base_catalog = catalog if filtered_catalog is None else filtered_catalog
+                filtered_catalog = frm.filter_catalog(catalog=base_catalog, filters=filters)
+                
+                print(filters)
                 for kind in species:
-                    if kind == 'All':
-                        kind_stats = frm.calculate_stats(catalog=catalog, kind=kind)
-                    else:
-                        kind_stats = frm.calculate_stats(catalog=filtered_catalog, kind=kind)
+                    kind_stats = frm.calculate_stats(catalog=filtered_catalog, kind=kind) if kind != 'All' else frm.filter_catalog(catalog=catalog, filters=filters)
                     pf.print_stats(kind_stats=kind_stats, kind=kind)
+                    
             case 3:
                 filters = ['All', '']
                 filtered_catalog = None
